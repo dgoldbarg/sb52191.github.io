@@ -5,6 +5,8 @@
 	background-image:url(http://dailybruin.com/images/2013/05/web.sp_.5.16.climbing.picA_..jpg);
 	position:fixed;
 	background-repeat:repeat;
+	height:500px;
+	width:500px;
 }
 .para1 {	
 	position:absolute;
