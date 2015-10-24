@@ -12,7 +12,7 @@ body {
 	color:#BCD2EE;
 	position: absolute;
 	margin-left:80%;
-	margin-top:5%;;
+	margin-top:-40px;
 	height:25px;
 	width:75px;
 	font-size: 20px;
@@ -23,34 +23,43 @@ body {
 	color:#BCD2EE;
 	position: absolute;
 	margin-left:90%;
-	margin-top:5%;;
+	margin-top:-40px;
 	height:25px;
 	width:75px;
 	font-size: 20px;
 	text-align:center;
 }
 #TITLE {
-	background:rgba(0,0,0,0.5);
 	color:#BCD2EE;
 	text-shadow: -1px 0 #808080, 0 1px #808080, 1px 0 #808080, 0 -1px #808080;
 	text-align: center;
-	width:80%;
-	height:40px;
 	margin:auto;
-
+}
+#FirstP {
+	background:rgba(0,0,0,0.5);
+	color:#BCD2EE;
+	width:90%;
+	margin-top:0px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+li {
+	float:left;
+	font-size:20px;
+}
+a {
+	display: block;
+	width: 60px;
 }
 p {
 	background:rgba(0,0,0,0.5);
 	color:#BCD2EE;
 	width:90%;
-	margin-top:10px;
+	margin-top:5px;
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
-}
-
-#FirstP {
-	margin-top:25%;
 }
 
 
