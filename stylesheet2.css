@@ -1,14 +1,27 @@
-* {
-	margin: -1px;
+#HOME_TAB {
+	position: absolute;
+	margin-left:90%;
+	margin-top:5%;
+	background-color:#BCD2EE;
+	height:30px;
+	width:100px;
 }
-.headline {
-	position:absolute;
-	height:18%;
-	width:92%;
-	top: 2.5%;
-	left: 4%;
-	background-color:black;
-	color:teal;
-	text-shadow:-1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
-	font-size:60px;
+#VIDEO_TAB {
+	position: absolute;
+	margin-left:80%;
+	margin-top:5%;
+	background-color:#BCD2EE;
+	height:30px;
+	width:100px;
+	font-size: 20px;
+}
+#TITLE {
+	background-color:#BCD2EE;
+	color:yellow;
+	text-shadow: -1px 0 #808080, 0 1px #808080, 1px 0 #808080, 0 -1px #808080;
 	text-align: center;
+	width:500px;
+	height:40px;
+	margin:auto;
+
+}
