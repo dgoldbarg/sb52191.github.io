@@ -1,27 +1,14 @@
 * {
 	margin: -1px;
 }
-.background_image {
-	background-image:url(http://dailybruin.com/images/2013/05/web.sp_.5.16.climbing.picA_..jpg);
-	position:fixed;
-	background-repeat:repeat;
-}
-.para1 {	
+.headline {
 	position:absolute;
-	bottom-margin:2.5%;
-	background-color: black;
-	color:red;
-	top:5%;
-	left:2.5%;
-	right:2.5%;
-	height:90%;
-	font-family:Impact;
-	font-size:40px;
-	text-align:center;
-	text-shadow:-1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-
-}
-.img1 {
-	height:80%;
-	width:90%;
-}
+	height:18%;
+	width:92%;
+	top: 2.5%;
+	left: 4%;
+	background-color:black;
+	color:teal;
+	text-shadow:-1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+	font-size:60px;
+	text-align: center;
